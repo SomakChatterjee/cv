@@ -1,0 +1,25 @@
+body {
+  background-color: #B4CFB0;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 8%;
+  height: 30px;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1
+{
+  font-family: cursive;
+  font-style: oblique;
+  color: #495371;
+}
+
+h3
+{
+  font-family: monospace;
+  font-size: 20px;
+  color: #495371;
+}
